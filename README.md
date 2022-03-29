@@ -16,11 +16,11 @@ Educational Repo that houses code used within Code Nation's Innovate Coding Cour
 
 ### Front-End
 
-[x] HTML & CSS Recap
-[ ] CSS Level-Up
-[ ] Media Queries
-[ ] Sass
-[ ] Introduction to JavaScript
-[ ] JavaScript Events
-[ ] Introductuion to jQuery
+[x] HTML & CSS Recap  
+[ ] CSS Level-Up  
+[ ] Media Queries  
+[ ] Sass  
+[ ] Introduction to JavaScript  
+[ ] JavaScript Events  
+[ ] Introductuion to jQuery  
 [ ] Introduction to Bootstrap
