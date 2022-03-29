@@ -19,7 +19,7 @@ Educational Repo that houses code used within Code Nation's Innovate Coding Cour
 [x] HTML & CSS Recap  
 [ ] CSS Level-Up  
 [ ] Media Queries  
-[ ] Sass  
+[ ] Introduction to Sass  
 [ ] Introduction to JavaScript  
 [ ] JavaScript Events  
 [ ] Introductuion to jQuery  
