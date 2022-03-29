@@ -6,8 +6,21 @@ Educational Repo that houses code used within Code Nation's Innovate Coding Cour
 
 ## Progress
 
+### Back-End
+
 [x] Python Recap  
 [x] Python Level-Up  
 [x] Object-Oriented Programming  
 [x] Introduction to Flask  
-[ ] Introduction to SQLite
+[x] Introduction to SQLite
+
+### Front-End
+
+[x] HTML & CSS Recap
+[ ] CSS Level-Up
+[ ] Media Queries
+[ ] Sass
+[ ] Introduction to JavaScript
+[ ] JavaScript Events
+[ ] Introductuion to jQuery
+[ ] Introduction to Bootstrap
