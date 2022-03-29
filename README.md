@@ -8,6 +8,8 @@ Educational Repo that houses code used within Code Nation's Innovate Coding Cour
 
 ### Back-End
 
+[x] Introduction to Command Line  
+[x] Introduction to Git  
 [x] Python Recap  
 [x] Python Level-Up  
 [x] Object-Oriented Programming  
